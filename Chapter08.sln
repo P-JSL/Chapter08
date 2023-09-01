@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithNetworkResourcec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithReflection", "WorkingWithReflection\WorkingWithReflection.csproj", "{AE69A513-B121-471B-8F50-866C7910BA40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithImages", "WorkingWithImages\WorkingWithImages.csproj", "{DA00BD09-3D20-4946-8895-10F5399F7755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internationalization", "Internationalization\Internationalization.csproj", "{FDF2A63C-DF4E-4F16-ACE7-1E089F5228EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{AE69A513-B121-471B-8F50-866C7910BA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE69A513-B121-471B-8F50-866C7910BA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE69A513-B121-471B-8F50-866C7910BA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA00BD09-3D20-4946-8895-10F5399F7755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA00BD09-3D20-4946-8895-10F5399F7755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA00BD09-3D20-4946-8895-10F5399F7755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA00BD09-3D20-4946-8895-10F5399F7755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF2A63C-DF4E-4F16-ACE7-1E089F5228EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF2A63C-DF4E-4F16-ACE7-1E089F5228EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF2A63C-DF4E-4F16-ACE7-1E089F5228EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF2A63C-DF4E-4F16-ACE7-1E089F5228EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
